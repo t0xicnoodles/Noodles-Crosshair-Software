@@ -1,3 +1,3 @@
-Simple Crosshair Software For Games
+Simple Crosshair Software For Games ( I DO NOT CONDONE USING THIS SOFTWARE ON GAMES THAT DO NOT PERMIT CROSSHAIRS)
 
-I'll be adding crosshair customization and ui improvements soon.
+Update 0.5 Is Out Now!
