@@ -1,2 +1,4 @@
 # Noodle-s-Crosshair-Software
-A Cool Little Software For Crosshairs (Very Early Development)
+Simple Software For Creating Crosshairs
+
+[Download v0.8](https://github.com/t0xicnoodles/Noodle-s-Crosshair-Software/archive/refs/heads/main.zip)
